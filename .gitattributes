@@ -1,4 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.xlsx diff=excel
-$ git config diff.excel.textconv strings
+* .xlsx diff = excel
